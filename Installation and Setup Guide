@@ -1,0 +1,81 @@
+ Installation and Setup Guide
+
+Requirements
+- Laptop or Computer
+- Node.js
+- npm
+- Visual Studio Code
+- Project Source Code
+
+Steps to Run the Project
+
+Step 1: Clone the Repository
+bash
+bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+Step 2: Open the Project Folder
+bash
+bash
+cd ASTROHEALTH
+
+Step 3: Install Dependencies
+bash
+bash
+npm install
+
+
+Step 4: Start the Development Server
+bash
+bash
+npm run dev
+
+Step 5: Open in Browser*
+Open the local URL displayed in your terminal, usually:
+text
+text
+http://localhost:5173
+
+Project Structure
+text
+text
+ASTROHEALTH/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── ...
+│
+├── index.html
+├── package.json
+├── package-lock.json
+└── README.md
+
+
+Note: The folder structure above is a general example. Update it according to your actual project.
+
+AI Usage Disclosure
+During the development of ASTROHEALTH, our team used AI tools such as ChatGPT and Google Gemini for brainstorming ideas, planning features, understanding code, debugging errors, and improving the application.
+The team reviewed and modified AI-generated suggestions and took responsibility for the final implementation, testing, and project decisions.
+
+Future Improvements
+- Real-time health data monitoring.
+- Integration with wearable health sensors.
+- AI-based health risk prediction.
+- Emergency notification system.
+- Secure storage of astronaut health records.
+ 
+Conclusion
+ASTROHEALTH aims to provide a simple and effective way to monitor astronaut health during space missions. It brings important health information together in one dashboard and helps identify abnormal readings through alerts.
+Project Name: ASTROHEALTH\
+Project Type: Web-Based Health Monitoring System
+Frontend: React + Vite 
+
+- [ ]README.md file project ke main folder mein honi chahiye.
+- [ ]npm install successfully run hona chahiye.
+- [ ]npm run dev se application open honi chahiye.
+- [ ]Dashboard ke 2–3 screenshots README mein add karna achha rahega.
+- [ ].env, passwords, API keys ya private information GitHub par upload mat karna.
