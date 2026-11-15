@@ -1,0 +1,38 @@
+1. Project Overview
+ASTROHEALTH is a health monitoring web application designed to monitor the health conditions of astronauts during space missions.
+It provides a simple and user-friendly dashboard to display important health information such as heart rate, oxygen level, and body temperature.
+The application helps identify abnormal health readings through alerts, making it easier for Mission Control to monitor astronaut health conditions.
+Key Features
+
+- Health monitoring dashboard.
+- Display of heart rate, oxygen level, and body temperature.
+- Alerts for abnormal health readings.
+- Simple and user-friendly interface.
+- Visual representation of health information.
+- Easy-to-understand health status.
+
+ 2.Key Features
+- Health monitoring dashboard.
+- Display of heart rate, oxygen level, and body temperature.
+- Alerts for abnormal health readings.
+- Simple and user-friendly interface.
+- Visual representation of health information.
+- Easy-to-understand health status.
+
+3.Technologies Used
+ Frontend
+- React
+- JavaScript
+- JSX
+- CSS
+- HTML
+- Lucide React
+
+ Development Tools
+- Vite
+- Node.js
+- npm
+ Other
+- JSON – Project configuration.
+- SVG – Icons and visual assets.
+- Markdown – Project documentation.
